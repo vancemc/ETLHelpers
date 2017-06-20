@@ -1,4 +1,4 @@
---USE [DisputesDB]
+--USE [<replace with db name>]
 --GO
 
 --/****** Object:  StoredProcedure [dbo].[pDeploy_SSIS_ScriptEnvironment_ver_4]    Script Date: 6/14/2017 2:19:33 PM ******/
